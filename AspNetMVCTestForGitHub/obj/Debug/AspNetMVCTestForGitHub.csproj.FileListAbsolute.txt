@@ -1,0 +1,5 @@
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub\bin\AspNetMVCTestForGitHub.dll
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub\bin\AspNetMVCTestForGitHub.pdb
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub\obj\Debug\AspNetMVCTestForGitHub.dll
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub\obj\Debug\AspNetMVCTestForGitHub.pdb

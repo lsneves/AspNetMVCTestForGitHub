@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMVCTestForGitHub", "AspNetMVCTestForGitHub\AspNetMVCTestForGitHub.csproj", "{628D3F13-9531-4B06-AB55-5724F7E4B518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMVCTestForGitHub.Tests", "AspNetMVCTestForGitHub.Tests\AspNetMVCTestForGitHub.Tests.csproj", "{1C0AAB7B-6E81-4155-845D-A4EEC03C9F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628D3F13-9531-4B06-AB55-5724F7E4B518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628D3F13-9531-4B06-AB55-5724F7E4B518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628D3F13-9531-4B06-AB55-5724F7E4B518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628D3F13-9531-4B06-AB55-5724F7E4B518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0AAB7B-6E81-4155-845D-A4EEC03C9F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0AAB7B-6E81-4155-845D-A4EEC03C9F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0AAB7B-6E81-4155-845D-A4EEC03C9F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0AAB7B-6E81-4155-845D-A4EEC03C9F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

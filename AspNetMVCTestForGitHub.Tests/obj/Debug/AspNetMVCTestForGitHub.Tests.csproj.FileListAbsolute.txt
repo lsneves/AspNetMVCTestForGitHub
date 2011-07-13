@@ -1,0 +1,8 @@
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub.Tests\bin\Debug\AspNetMVCTestForGitHub.Tests.dll.config
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub.Tests\bin\Debug\AspNetMVCTestForGitHub.Tests.dll
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub.Tests\bin\Debug\AspNetMVCTestForGitHub.Tests.pdb
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub.Tests\bin\Debug\AspNetMVCTestForGitHub.dll
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub.Tests\bin\Debug\AspNetMVCTestForGitHub.pdb
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub.Tests\obj\Debug\AspNetMVCTestForGitHub.Tests.dll
+c:\users\lsneves\documents\visual studio 2010\Projects\AspNetMVCTestForGitHub\AspNetMVCTestForGitHub.Tests\obj\Debug\AspNetMVCTestForGitHub.Tests.pdb
